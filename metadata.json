@@ -1,0 +1,5 @@
+{
+  "name": "Reliability-Aware AI Service Platform (RAASP)",
+  "description": "A production-ready AI service platform that provides confidence scores and reliability status for AI-generated responses.",
+  "requestFramePermissions": []
+}
